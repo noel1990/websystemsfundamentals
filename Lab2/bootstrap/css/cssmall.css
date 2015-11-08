@@ -1,0 +1,53 @@
+.span12 {
+	 background-color: #9393FF;
+	 }
+
+
+.span4{
+	height:350px;
+	background-color:#B9B9FF;
+	}
+
+.span8{
+	height:340px;
+	background-color: #ffffff;
+	padding:20px;
+	}
+
+
+#content {
+	 height:200px;
+	 background-color: #ffffff;
+	 text-align: center;
+	 }
+	 
+#contact {
+	 height:238px;
+	 background-color: #ffffff;
+	 text-align: left;
+	 }
+
+#title{
+	text-align:left;
+	font-size: 1.7em;
+	color:#9393FF;
+}
+
+footer {
+	 height:20px;
+	 background-color: #9393FF;
+	 text-align:center;
+	 }
+
+ul { 
+	font-size: 1.5em;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+
+li {
+	margin-left: 20px;
+	margin-right:20px;
+	margin-top:20px;
+	margin-bottom:20px;
+}
